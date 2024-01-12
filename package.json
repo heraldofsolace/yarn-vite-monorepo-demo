@@ -1,0 +1,4 @@
+{
+  "name": "yarn-vite-monorepo",
+  "packageManager": "yarn@4.0.2"
+}
